@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Logger Key1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset Key1
+connect(SSID (String), Pass (String)) Key1
+send (array Params (String), array Values (String), hostname(String), path (String)) Key1
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
