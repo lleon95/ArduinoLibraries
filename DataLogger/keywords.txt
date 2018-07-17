@@ -6,15 +6,15 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Logger Key1
+Logger	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-reset Key1
-connect(SSID (String), Pass (String)) Key1
-send (array Params (String), array Values (String), hostname(String), path (String)) Key1
+reset	KEYWORD2
+connect	KEYWORD2
+send	KEYWORD2
 
 
 #######################################
